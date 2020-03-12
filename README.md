@@ -3,3 +3,6 @@
 
 知识图谱：
 https://github.com/husthuke/awesome-knowledge-graph
+
+中文实体链接（CCKS 2019 中文短文本实体链指比赛技术创新奖解决方案）
+https://github.com/AlexYangLi/ccks2019_el
