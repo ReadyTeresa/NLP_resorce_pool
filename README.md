@@ -10,5 +10,5 @@
   ### 2）知识推理
 [推理工具](https://www.drools.org/ "推理引擎")
   ### 3）本体抽取
-[基于上位词的中文实体关系图谱构建](https://www.docin.com/p-1541647233.html "哈工大")
+[基于上位词的中文实体关系图谱构建](https://www.docin.com/p-1541647233.html "哈工大")   
 [KG 2015 -《大词林》中实体上位词获取及层次化构建方法](https://wenku.baidu.com/view/855083d67375a417876f8f64.html "大词林")
