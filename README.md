@@ -15,3 +15,5 @@
 * [复旦-CN_Probase](http://kw.fudan.edu.cn/cnprobase/intro/ "文档及接口")   
 * [大词林demo](http://101.200.120.155/ "查询服务及目录浏览")
 * [大词林开放数据下载](https://mp.weixin.qq.com/s/gGig5KFztInrGAmhUhqAkg "实体、概念、关系")
+### 4）多模态知识图谱
+* [多模态知识图谱](https://mp.weixin.qq.com/s/zYVPBED_7sxsLxHhTRCv1g "基于知识图谱的语义理解技术及应用")
