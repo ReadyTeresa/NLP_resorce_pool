@@ -14,3 +14,4 @@
 * [KG 2015 -《大词林》中实体上位词获取及层次化构建方法](https://wenku.baidu.com/view/855083d67375a417876f8f64.html "大词林")   
 * [复旦-CN_Probase](http://kw.fudan.edu.cn/cnprobase/intro/ "文档及接口")   
 * [大词林demo](http://101.200.120.155/ "查询服务及目录浏览")
+* [大词林开放数据下载](https://mp.weixin.qq.com/s/gGig5KFztInrGAmhUhqAkg "实体、概念、关系")
