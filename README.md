@@ -7,6 +7,7 @@
 [整理知识图谱相关学习资料](https://github.com/husthuke/awesome-knowledge-graph "知识图谱相关学习资料")
   ### 1）中文实体链接
 [CCKS 2019 中文短文本实体链指比赛技术创新奖解决方案](https://github.com/AlexYangLi/ccks2019_el "实体链接")
+[CCKS&百度 2019中文短文本的实体链指 第一名解决方案](https://github.com/panchunguang/ccks_baidu_entity_link '实体链接')
   ### 2）知识推理
 [推理工具](https://www.drools.org/ "推理引擎")
   ### 3）本体抽取
