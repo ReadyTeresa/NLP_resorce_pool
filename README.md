@@ -19,3 +19,6 @@
 * [大词林开放数据下载](https://mp.weixin.qq.com/s/gGig5KFztInrGAmhUhqAkg "实体、概念、关系")
 ### 4）多模态知识图谱
 * [多模态知识图谱](https://mp.weixin.qq.com/s/zYVPBED_7sxsLxHhTRCv1g "基于知识图谱的语义理解技术及应用")
+### 5）实体分类[NET]
+* [细粒度实体类型分类多篇paper介绍](https://www.zhihu.com/people/chen-bo-89-7/posts "知乎解读paper")        
+* [Zero-Shot细粒度实体类型分类](https://mp.weixin.qq.com/s/cMzWWH5B1tvq_Q1_lRxjFg "论文MZNT")
