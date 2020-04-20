@@ -14,8 +14,8 @@
   ### 3）本体抽取
 * [基于上位词的中文实体关系图谱构建](https://www.docin.com/p-1541647233.html "哈工大")   
 * [KG 2015 -《大词林》中实体上位词获取及层次化构建方法](https://wenku.baidu.com/view/855083d67375a417876f8f64.html "大词林")  
-* [中科大刘焕勇上下位关系抽取(https://www.ctolib.com/liuhuanyong-HyponymyExtraction.html) "上下位关系"] 
-* [模板抽取上下位关系抽取(https://jinzengnju.github.io/2018/03/12/%E5%85%B3%E7%B3%BB%E6%8A%BD%E5%8F%96/) "上下位关系"] 
+* [中科大刘焕勇上下位关系抽取](https://www.ctolib.com/liuhuanyong-HyponymyExtraction.html "上下位关系")
+* [模板抽取上下位关系抽取](https://jinzengnju.github.io/2018/03/12/%E5%85%B3%E7%B3%BB%E6%8A%BD%E5%8F%96/ "上下位关系")
 * [复旦-CN_Probase](http://kw.fudan.edu.cn/cnprobase/intro/ "文档及接口")   
 * [大词林demo](http://101.200.120.155/ "查询服务及目录浏览")
 * [大词林开放数据下载](https://mp.weixin.qq.com/s/gGig5KFztInrGAmhUhqAkg "实体、概念、关系")
