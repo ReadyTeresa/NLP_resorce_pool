@@ -4,7 +4,7 @@
 ## NLP资源：
 [几乎最全的中文NLP资源库](https://github.com/fighting41love/funNLP "NLP民工的乐园")
 ## 事件抽取:
-*[NLP事件抽取文献资源列表](https://github.com/BaptisteBlouin/EventExtractionPapers "事件抽取")
+* [NLP事件抽取文献资源列表](https://github.com/BaptisteBlouin/EventExtractionPapers "事件抽取")
 ## 知识图谱：
 [整理知识图谱相关学习资料](https://github.com/husthuke/awesome-knowledge-graph "知识图谱相关学习资料")     
 [知识图谱课程CS520斯坦福](https://web.stanford.edu/class/cs520/"知识图谱课程")
