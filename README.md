@@ -2,7 +2,7 @@
 整理NLP相关学习资料，提供系统化的学习路径。
 
 ## NLP资源：
-[几乎最全的中文NLP资源库](https://github.com/fighting41love/funNLP "NLP民工的乐园")
+[几乎最全的中文NLP资源库](https://github.com/fighting41love/funNLP "NLP民工的乐园")    
 [LDA](https://github.com/DengYangyong/LDA_gensim  "中英文新闻主题")
 ## 事件抽取:
 * [NLP事件抽取文献资源列表](https://github.com/BaptisteBlouin/EventExtractionPapers "事件抽取")
