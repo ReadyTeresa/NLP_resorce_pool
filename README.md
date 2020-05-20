@@ -32,5 +32,6 @@
 * [HowNet中文知识库](https://github.com/thunlp/OpenHowNet "知识库整理")
 * [各种常识知识库] (http://openkg.cn/group/commonsense "openkg整理")
 * [大词林全量数据](https://pan.baidu.com/s/1WPLabIoCw4Yib4g7K0qVOw "提取码: i25q")
+* [同义词词林及相似计算](https://github.com/BiLiangLtd/WordSimilarity "同义词词林及基于词林数据的相似度计算")
 ### 7）关系抽取
 * [中文关系抽取](https://github.com/thunlp/Chinese_NRE "中文关系抽取")
