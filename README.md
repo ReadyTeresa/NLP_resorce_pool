@@ -32,6 +32,7 @@
 ### 5）实体分类[NET]
 * [细粒度实体类型分类多篇paper介绍](https://www.zhihu.com/people/chen-bo-89-7/posts "知乎解读paper")        
 * [Zero-Shot细粒度实体类型分类](https://mp.weixin.qq.com/s/cMzWWH5B1tvq_Q1_lRxjFg "论文MZNT")
+* [细粒度实体分类中文数据集]()
 ### 6）知识图谱/知识库
 * [HowNet中文知识库](https://github.com/thunlp/OpenHowNet "知识库整理")
 * [各种常识知识库] (http://openkg.cn/group/commonsense "openkg整理")
