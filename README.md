@@ -42,3 +42,6 @@
 * [ehownet](http://ehownet.iis.sinica.edu.tw/ehownet.php "概念层级关系")
 ### 7）关系抽取
 * [中文关系抽取](https://github.com/thunlp/Chinese_NRE "中文关系抽取")
+### 8）实体对齐
+* [实体对齐](https://github.com/THU-KEG/Entity_Alignment_Papers "实体对齐论文代码")
+
