@@ -16,7 +16,7 @@
 * [知识图谱资料整理github1](https://github.com/husthuke/awesome-knowledge-graph 'github')
 * [知识图谱资料整理github2](https://github.com/BrambleXu/knowledge-graph-learning 'github')
 * [知识图谱表示学习](https://github.com/awslabs/dgl-ke 'github')
-  ### 1）实体链接
+### 1）实体链接
 [CCKS 2019 中文短文本实体链指比赛技术创新奖解决方案](https://github.com/AlexYangLi/ccks2019_el "实体链接")   
 [CCKS&百度 2019中文短文本的实体链指 第一名解决方案](https://github.com/panchunguang/ccks_baidu_entity_link '实体链接')
 [论文](https://arxiv.org/pdf/2005.14253.pdf)
