@@ -16,6 +16,8 @@
 * [知识图谱资料整理github1](https://github.com/husthuke/awesome-knowledge-graph 'github')
 * [知识图谱资料整理github2](https://github.com/BrambleXu/knowledge-graph-learning 'github')
 * [知识图谱表示学习](https://github.com/awslabs/dgl-ke 'github')
+* [基于上位词的中文实体关系图谱构建](https://www.docin.com/p-1541647233.html "哈工大")   
+* [KG 2015 -《大词林》中实体上位词获取及层次化构建方法](https://wenku.baidu.com/view/855083d67375a417876f8f64.html "大词林")  
 
   ### 1）实体链接
 [CCKS 2019 中文短文本实体链指比赛技术创新奖解决方案](https://github.com/AlexYangLi/ccks2019_el "实体链接")   
