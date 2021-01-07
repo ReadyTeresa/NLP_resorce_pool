@@ -51,8 +51,8 @@
 * [基于MKR的书籍推荐](https://github.com/Randool/pyRecommender "基于MKR的书籍推荐")
 * [推荐相关github：](https://github.com/SSSxCCC/Recommender-System "KG相关github")
 #### KG推荐KG推荐先关注这几篇论文：（用数据试一试）
-a）Explainable Reasoning over Knowledge Graphs for Recommendation（AAAI 2019）[code](https://github.com/eBay/KPRN "KRPN")
-b）Multi-Task Feature Learning for Knowledge Graph Enhanced Recommendation（WWW 2019）[code](https://github.com/hwwang55/MKR) [code](https://github.com/Randool/pyRecommender)
-c）RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems（CIKM 2018）[code](https://github.com/hwwang55/RippleNet) [code]( https://github.com/qibinc/RippleNet-PyTorch) [code](https://github.com/tezignlab/RippleNet-TF2)
+a）Explainable Reasoning over Knowledge Graphs for Recommendation（AAAI 2019）[code](https://github.com/eBay/KPRN "KRPN")   
+b）Multi-Task Feature Learning for Knowledge Graph Enhanced Recommendation（WWW 2019）[code](https://github.com/hwwang55/MKR) [code](https://github.com/Randool/pyRecommender)   
+c）RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems（CIKM 2018）[code](https://github.com/hwwang55/RippleNet) [code]( https://github.com/qibinc/RippleNet-PyTorch) [code](https://github.com/tezignlab/RippleNet-TF2)   
 ## 网络表示学习：
 * [网络表示学习相关paper和代码](https://github.com/chihming/awesome-network-embedding "github")
