@@ -49,5 +49,11 @@
 ### 9）KG推荐
 * [知识图谱推荐论文](https://github.com/xgy995975102/RS-with-KG "知识图谱推荐论文代码")
 * [基于MKR的书籍推荐](https://github.com/Randool/pyRecommender "基于MKR的书籍推荐")
+* [推荐相关github：](https://github.com/SSSxCCC/Recommender-System "KG相关github")
+#### KG推荐KG推荐先关注这几篇论文：（用数据试一试）
+a）Explainable Reasoning over Knowledge Graphs for Recommendation（AAAI 2019）
+* [code](https://github.com/eBay/KPRN "KRPN")
+* [推荐相关github：](https://github.com/SSSxCCC/Recommender-System "KG相关github")
+* [推荐相关github：](https://github.com/SSSxCCC/Recommender-System "KG相关github")
 ## 网络表示学习：
 * [网络表示学习相关paper和代码](https://github.com/chihming/awesome-network-embedding "github")
