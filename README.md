@@ -22,6 +22,7 @@
 [论文](https://arxiv.org/pdf/2005.14253.pdf)
   ### 2）知识推理
 [推理工具](https://www.drools.org/ "推理引擎")
+[知识推理paper及code](https://github.com/THU-KEG/Knowledge_Graph_Reasoning_Papers "paper及code")
   ### 3）本体抽取
 * [基于上位词的中文实体关系图谱构建](https://www.docin.com/p-1541647233.html "哈工大")   
 * [KG 2015 -《大词林》中实体上位词获取及层次化构建方法](https://wenku.baidu.com/view/855083d67375a417876f8f64.html "大词林")  
