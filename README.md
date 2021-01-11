@@ -21,7 +21,7 @@
 [CCKS&百度 2019中文短文本的实体链指 第一名解决方案](https://github.com/panchunguang/ccks_baidu_entity_link '实体链接')
 [论文](https://arxiv.org/pdf/2005.14253.pdf)
   ### 2）知识推理
-[推理工具](https://www.drools.org/ "推理引擎")
+[推理工具](https://www.drools.org/ "推理引擎")    
 [知识推理paper及code](https://github.com/THU-KEG/Knowledge_Graph_Reasoning_Papers "paper及code")
   ### 3）本体抽取
 * [基于上位词的中文实体关系图谱构建](https://www.docin.com/p-1541647233.html "哈工大")   
