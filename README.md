@@ -47,6 +47,8 @@
 ### 7）关系抽取
 * [中文关系抽取](https://github.com/thunlp/Chinese_NRE "中文关系抽取")    
 * [Bert中文关系抽取](https://github.com/Ricardokevins/Bert-In-Relation-Extraction "Bert中文关系抽取")
+* [关系抽取工具](https://github.com/thunlp/OpenNRE "关系抽取工具")
+
 ### 8）实体对齐
 * [实体对齐](https://github.com/THU-KEG/Entity_Alignment_Papers "实体对齐论文代码")
 ### 9）KG推荐
