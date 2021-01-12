@@ -5,7 +5,8 @@
 [几乎最全的中文NLP资源库](https://github.com/fighting41love/funNLP "NLP民工的乐园")    
 [LDA](https://github.com/DengYangyong/LDA_gensim  "中英文新闻主题")    
 [word2vec词向量](https://github.com/RaRe-Technologies/gensim-data  "官方链接")    
-[ACL2020信息抽取相关论文](https://zhuanlan.zhihu.com/p/142408584?utm_source=wechat_session&utm_medium=social&utm_oi=770765506717171712 "ACL2020")    
+[ACL2020信息抽取相关论文](https://zhuanlan.zhihu.com/p/142408584?utm_source=wechat_session&utm_medium=social&utm_oi=770765506717171712 "ACL2020")  
+[百度数据集](https://ai.baidu.com/broad/introduction  "包括信息抽取、实体链接、阅读理解等多种数据集")    
 [知识图谱,常识推理,事件知识](https://homes.cs.washington.edu/~msap/publications.html)
 ## 事件抽取:
 * [NLP事件抽取文献资源列表](https://github.com/BaptisteBlouin/EventExtractionPapers "事件抽取")
