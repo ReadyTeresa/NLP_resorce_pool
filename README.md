@@ -59,5 +59,16 @@
 a）Explainable Reasoning over Knowledge Graphs for Recommendation（AAAI 2019）[code](https://github.com/eBay/KPRN "KRPN")   
 b）Multi-Task Feature Learning for Knowledge Graph Enhanced Recommendation（WWW 2019）[code](https://github.com/hwwang55/MKR) [code](https://github.com/Randool/pyRecommender)   
 c）RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems（CIKM 2018）[code](https://github.com/hwwang55/RippleNet) [code]( https://github.com/qibinc/RippleNet-PyTorch) [code](https://github.com/tezignlab/RippleNet-TF2)   
+### 10）金融KG
+* [金融知识图谱项目](https://github.com/liuhuanyong/QASystemOnMedicalKG "金融KG")
+
+### 11）医疗KG
+* [医疗知识图谱项目](https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2Fjm199504%2FFinancial-Knowledge-Graphs "医疗KG")    
+* [知识图谱问答微信小程序](https://github.com/NTDXYG/Neo4j "KG问答小程序")  
+* [CMeKG-中文医学知识图谱](http://cmekg.pcl.ac.cn/ "北大、郑大智慧医疗课题组demo")  
+*
+
 ## 网络表示学习：
+* [斯坦福图机器学习课程](https://hub.baai.ac.cn/view/5889 "图机器学习")    
 * [网络表示学习相关paper和代码](https://github.com/chihming/awesome-network-embedding "github")
+
