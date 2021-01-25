@@ -57,8 +57,8 @@
 * [ehownet](http://ehownet.iis.sinica.edu.tw/ehownet.php "概念层级关系")
 
 
-
 ### 7）关系抽取
+* [百科三元组爬虫](https://github.com/lixiang0/WEB_KG "百科三元组爬虫") 
 * [中文关系抽取](https://github.com/thunlp/Chinese_NRE "中文关系抽取")    
 * [Bert中文关系抽取](https://github.com/Ricardokevins/Bert-In-Relation-Extraction "Bert中文关系抽取")
 * [关系抽取工具](https://github.com/thunlp/OpenNRE "关系抽取工具")
