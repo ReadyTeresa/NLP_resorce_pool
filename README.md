@@ -42,10 +42,22 @@
 * [细粒度实体分类中文数据集](https://github.com/HKUST-KnowComp/cfet)
 ### 6）知识图谱/知识库
 * [HowNet中文知识库](https://github.com/thunlp/OpenHowNet "知识库整理")
+* [HowNet中文知识库](https://openhownet.thunlp.org/ "知识库整理")
+* [Zhishi.Me](http://www.openkg.cn/dataset/zhishi-me "知识库整理")
 * [各种常识知识库] (http://openkg.cn/group/commonsense "openkg整理")
 * [大词林全量数据](https://pan.baidu.com/s/1WPLabIoCw4Yib4g7K0qVOw "提取码: i25q")
 * [同义词词林及相似计算](https://github.com/BiLiangLtd/WordSimilarity "同义词词林及基于词林数据的相似度计算")
+* [百科triples（复旦-CN-DBpedia](http://www.openkg.cn/dataset/cndbpedia "百科三元组")
+* [百科三元组 （苏神）](https://kexue.fm/archives/4359 "百科三元组")
+* [中文百科知识库（北京大学）](http://www.openkg.cn/dataset/pku-pie "百科三元组")
+* [中文百科知识库（狗尾草）](http://www.openkg.cn/dataset/zhonto "百科三元组")
+* [思知知识图谱数据](http://www.openkg.cn/dataset/ownthink-v2 "三元组")
+* [思知知识图谱数据](https://github.com/ownthink/KnowledgeGraphData "三元组")
+* [其他知识库数据](http://www.openkg.cn/dataset "其他知识库数据")
 * [ehownet](http://ehownet.iis.sinica.edu.tw/ehownet.php "概念层级关系")
+
+
+
 ### 7）关系抽取
 * [中文关系抽取](https://github.com/thunlp/Chinese_NRE "中文关系抽取")    
 * [Bert中文关系抽取](https://github.com/Ricardokevins/Bert-In-Relation-Extraction "Bert中文关系抽取")
