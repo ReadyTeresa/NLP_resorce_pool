@@ -64,8 +64,10 @@
 * [Bert中文关系抽取](https://github.com/Ricardokevins/Bert-In-Relation-Extraction "Bert中文关系抽取")
 * [关系抽取工具](https://github.com/thunlp/OpenNRE "关系抽取工具")
 
-### 8）实体对齐
+### 8）本体匹配、实体对齐和知识融合
+* [本体匹配、实体对齐和知识融合pdf](https://github.com/nju-websoft/KnowledgeGraphFusion "知识融合Tutorial")
 * [实体对齐](https://github.com/THU-KEG/Entity_Alignment_Papers "实体对齐论文代码")
+
 ### 9）KG推荐
 * [知识图谱推荐论文](https://github.com/xgy995975102/RS-with-KG "知识图谱推荐论文代码")
 * [基于MKR的书籍推荐](https://github.com/Randool/pyRecommender "基于MKR的书籍推荐")
