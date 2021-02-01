@@ -68,7 +68,8 @@
 ### 8）本体匹配、实体对齐和知识融合
 * [本体匹配、实体对齐和知识融合pdf](https://github.com/nju-websoft/KnowledgeGraphFusion "知识融合Tutorial")
 * [实体融合](https://zhuanlan.zhihu.com/p/105203565 "知乎")    
-* [实体对齐](https://github.com/THU-KEG/Entity_Alignment_Papers "实体对齐论文代码")    
+* [实体对齐-清华](https://github.com/THU-KEG/Entity_Alignment_Papers "实体对齐论文代码")  
+* [实体对齐-paperwithcode](https://paperswithcode.com/task/entity-alignment "实体对齐论文代码")  
 * [三元组质检](https://zhuanlan.zhihu.com/p/75983373 "知乎")  
 * [知识同义词扩充](https://zhuanlan.zhihu.com/p/94726282 "知乎")  
 
