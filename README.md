@@ -40,8 +40,10 @@
 * [多模态知识图谱](https://mp.weixin.qq.com/s/zYVPBED_7sxsLxHhTRCv1g "基于知识图谱的语义理解技术及应用")
 ### 5）实体分类[NET]
 * [细粒度实体类型分类多篇paper介绍](https://www.zhihu.com/people/chen-bo-89-7/posts "知乎解读paper")        
-* [Zero-Shot细粒度实体类型分类](https://mp.weixin.qq.com/s/cMzWWH5B1tvq_Q1_lRxjFg "论文MZNT")
-* [细粒度实体分类中文数据集](https://github.com/HKUST-KnowComp/cfet)
+* [Zero-Shot细粒度实体类型分类](https://mp.weixin.qq.com/s/cMzWWH5B1tvq_Q1_lRxjFg "论文MZNT")    
+* [细粒度实体分类中文数据集](https://github.com/HKUST-KnowComp/cfet)    
+* [多标签分类](https://github.com/kaushaltrivedi/bert-toxic-comments-multilabel "多标签分类")  [data](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data?select=train.csv.zip "data")
+
 ### 6）知识图谱/知识库
 * [HowNet中文知识库](https://github.com/thunlp/OpenHowNet "知识库整理")
 * [HowNet中文知识库](https://openhownet.thunlp.org/ "知识库整理")
