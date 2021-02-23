@@ -64,10 +64,11 @@
 ### 7）关系抽取
 * [百科三元组爬虫](https://github.com/lixiang0/WEB_KG "百科三元组爬虫") 
 * [中文关系抽取](https://github.com/thunlp/Chinese_NRE "中文关系抽取")    
-* [Bert中文关系抽取](https://github.com/Ricardokevins/Bert-In-Relation-Extraction "Bert中文关系抽取")
+* [Bert中文关系抽取-分类](https://github.com/Ricardokevins/Bert-In-Relation-Extraction "Bert中文关系抽取-分类")
 * [关系抽取工具](https://github.com/thunlp/OpenNRE "关系抽取工具")
-* [浙大中文关系抽取-CNN-RNN-PCNN-Capsule-Transformer-GCN-Bert](https://github.com/zjunlp/deepke "浙大中文关系抽取") [【文档】](http://openkg1.oss-cn-beijing.aliyuncs.com/c5839f23-3cde-49d0-9c05-6bea5fe512b1/deepke.pdf) 
-* [根据依存句法分析进行关系抽取](http://openkg.cn/tool/finiancialkg "关系抽取")   
+* [浙大中文关系分类-CNN-RNN-PCNN-Capsule-Transformer-GCN-Bert](https://github.com/zjunlp/deepke "浙大中文关系抽取") [【文档】](http://openkg1.oss-cn-beijing.aliyuncs.com/c5839f23-3cde-49d0-9c05-6bea5fe512b1/deepke.pdf) 
+* [根据依存句法分析进行关系抽取](http://openkg.cn/tool/finiancialkg "关系抽取")     
+* [三元组抽取](https://github.com/Wangpeiyi9979/IE-Bert-CNN "三元组抽取")  
 
 ### 8）本体匹配、实体对齐和知识融合
 * [本体匹配、实体对齐和知识融合pdf](https://github.com/nju-websoft/KnowledgeGraphFusion "知识融合Tutorial")
