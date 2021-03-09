@@ -68,7 +68,10 @@
 * [关系抽取工具](https://github.com/thunlp/OpenNRE "关系抽取工具")
 * [浙大中文关系分类-CNN-RNN-PCNN-Capsule-Transformer-GCN-Bert](https://github.com/zjunlp/deepke "浙大中文关系抽取") [【文档】](http://openkg1.oss-cn-beijing.aliyuncs.com/c5839f23-3cde-49d0-9c05-6bea5fe512b1/deepke.pdf) 
 * [根据依存句法分析进行关系抽取](http://openkg.cn/tool/finiancialkg "关系抽取")     
-* [三元组抽取](https://github.com/Wangpeiyi9979/IE-Bert-CNN "三元组抽取")  
+* [三元组抽取](https://github.com/Wangpeiyi9979/IE-Bert-CNN "三元组抽取") 
+* [三元组抽取](https://github.com/loujie0822/DeepIE "娄杰-0.75")
+* [三元组抽取](https://github.com/zhengyima/kg-baseline-pytorch "苏剑林pytorch-0.74")
+* [三元组抽取](https://github.com/bojone/kg-2019 "苏剑林keras-0.75")
 
 ### 8）本体匹配、实体对齐和知识融合
 * [本体匹配、实体对齐和知识融合pdf](https://github.com/nju-websoft/KnowledgeGraphFusion "知识融合Tutorial")
