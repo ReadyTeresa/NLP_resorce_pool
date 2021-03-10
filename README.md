@@ -96,6 +96,8 @@ c）RippleNet: Propagating User Preferences on the Knowledge Graph for Recommend
 * [医疗知识图谱项目](https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2Fjm199504%2FFinancial-Knowledge-Graphs "医疗KG")    
 * [知识图谱问答微信小程序](https://github.com/NTDXYG/Neo4j "KG问答小程序")  
 * [CMeKG-中文医学知识图谱](http://cmekg.pcl.ac.cn/ "北大、郑大智慧医疗课题组demo")  
+* [医学NLP-KG知识整理](https://github.com/GanjinZero/awesome_Chinese_medical_NLP "医学NLP-KG知识整理") 
+* [中文医学bert](https://github.com/GanjinZero/ChineseEHRBert "中文医学bert") 
 
 ### 12）预训练词向量
 * [金融bert](https://github.com/valuesimplex/FinBERT "金融bert")     
