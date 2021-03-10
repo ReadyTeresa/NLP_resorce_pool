@@ -2,7 +2,8 @@
 整理NLP相关学习资料，提供系统化的学习路径。
 
 ## NLP资源：
-[几乎最全的中文NLP资源库](https://github.com/fighting41love/funNLP "NLP民工的乐园")    
+[几乎最全的中文NLP资源库](https://github.com/fighting41love/funNLP "NLP民工的乐园")  
+[NLP资源整理](https://blog.csdn.net/qq_42189083/article/details/111614140 "NLP资源整理") 
 [LDA](https://github.com/DengYangyong/LDA_gensim  "中英文新闻主题")    
 [word2vec词向量](https://github.com/RaRe-Technologies/gensim-data  "官方链接")    
 [ACL2020信息抽取相关论文](https://zhuanlan.zhihu.com/p/142408584?utm_source=wechat_session&utm_medium=social&utm_oi=770765506717171712 "ACL2020")  
