@@ -12,7 +12,8 @@
 [数据标注平台](https://github.com/talentneptuner/pt_Platformv2)     
 [知识抽取、管理中台参考案例-华为云KG](https://support.huaweicloud.com/bestpractice-kg/kg_04_0001.html) 
 ## 事件抽取:
-* [NLP事件抽取文献资源列表](https://github.com/BaptisteBlouin/EventExtractionPapers "事件抽取")
+* [NLP事件抽取文献资源列表](https://github.com/BaptisteBlouin/EventExtractionPapers "事件抽取")    
+* 
 ## 知识图谱：
 * [整理知识图谱相关学习资料](https://github.com/husthuke/awesome-knowledge-graph "知识图谱相关学习资料")
 * [知识图谱课程CS520斯坦福](https://web.stanford.edu/class/cs520/"知识图谱课程")
