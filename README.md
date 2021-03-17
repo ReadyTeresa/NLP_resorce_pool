@@ -74,6 +74,7 @@
 * [三元组抽取-娄杰-0.75](https://github.com/loujie0822/DeepIE "娄杰-0.75")
 * [三元组抽取-苏剑林pytorch-0.74](https://github.com/zhengyima/kg-baseline-pytorch "苏剑林pytorch-0.74")
 * [三元组抽取-苏剑林keras-0.75](https://github.com/bojone/kg-2019 "苏剑林keras-0.75")
+* [三元组抽取-TPlinker](https://github.com/131250208/TPlinker-joint-extraction "三元组抽取")  [paper(https://arxiv.org/pdf/2010.13415.pdf)]
 
 ### 8）本体匹配、实体对齐和知识融合
 * [本体匹配、实体对齐和知识融合pdf](https://github.com/nju-websoft/KnowledgeGraphFusion "知识融合Tutorial")
