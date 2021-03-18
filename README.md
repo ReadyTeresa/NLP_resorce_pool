@@ -109,6 +109,7 @@ c）RippleNet: Propagating User Preferences on the Knowledge Graph for Recommend
 * [斯坦福图机器学习课程](https://hub.baai.ac.cn/view/5889 "图机器学习")    
 * [网络表示学习相关paper和代码](https://github.com/chihming/awesome-network-embedding "github")
 * [图深度学习论文](https://github.com/naganandy/graph-based-deep-learning-literature "github")
+* [网络表示学习](https://github.com/thunlp/OpenNE "github")
 ## 动态知识图谱：
 * [动态知识图谱](https://github.com/woojeongjin/dynamic-KG "动态知识图谱") 
 * [基于动态知识图谱的事件预测](https://github.com/amy-deng/glean "基于动态知识图谱的事件预测")   
