@@ -95,7 +95,9 @@ c）RippleNet: Propagating User Preferences on the Knowledge Graph for Recommend
 * [MKR：](https://github.com/Randool/pyRecommender "pytorch") 
 * [graphsage：](https://github.com/twjiang/graphSAGE-pytorch "pytorch")      
 * [pinsage：](https://github.com/yoonjong12/pinsage "pytorch")      
-* [pinsage：](https://github.com/dmlc/dgl/tree/master/examples/pytorch/pinsage "pytorch")      
+* [pinsage：](https://github.com/dmlc/dgl/tree/master/examples/pytorch/pinsage "pytorch")  
+* [pinsage：](https://github.com/rexrex9/gnn  "动手学推荐课程代码") 
+*    
 ### 10）金融KG
 * [金融知识图谱项目](https://github.com/liuhuanyong/QASystemOnMedicalKG "金融KG")
 
