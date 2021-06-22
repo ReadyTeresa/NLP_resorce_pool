@@ -111,7 +111,10 @@ c）RippleNet: Propagating User Preferences on the Knowledge Graph for Recommend
 * [中文医学bert](https://github.com/GanjinZero/ChineseEHRBert "中文医学bert") 
 
 ### 12）预训练词向量
-* [金融bert](https://github.com/valuesimplex/FinBERT "金融bert")     
+* [金融bert](https://github.com/valuesimplex/FinBERT "金融bert")   
+
+### 13）信息抽取
+* [ACL2021 信息抽取相关论文](https://mp.weixin.qq.com/s/tLX117eblU8U60qIwhudMg "ACL2021 信息抽取相关论文")    
 
 ## 网络表示学习：
 * [斯坦福图机器学习课程](https://hub.baai.ac.cn/view/5889 "图机器学习")     
@@ -125,4 +128,5 @@ c）RippleNet: Propagating User Preferences on the Knowledge Graph for Recommend
 ## 动态知识图谱：
 * [动态知识图谱](https://github.com/woojeongjin/dynamic-KG "动态知识图谱") 
 * [基于动态知识图谱的事件预测](https://github.com/amy-deng/glean "基于动态知识图谱的事件预测")   
+
 
