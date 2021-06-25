@@ -123,7 +123,7 @@ c）RippleNet: Propagating User Preferences on the Knowledge Graph for Recommend
 * [网络表示学习](https://github.com/thunlp/OpenNE "github")    
 * [网络表示学习论文](https://github.com/thunlp/GNNPapers "paper")    
 * [网络表示学习框架](https://github.com/THUDM/cogdl "framework")    
-* [Node2vec](https://github.com/eliorc/node2vec "node2vec")   
+* [Node2vec](https://github.com/eliorc/node2vec "node2vec")   [node2vec+k-means example](https://github.com/taboola/node2vec-example)
 * [pyGCN](https://github.com/tkipf/pygcn "node2vec" "GCN")
 ## 动态知识图谱：
 * [动态知识图谱](https://github.com/woojeongjin/dynamic-KG "动态知识图谱") 
