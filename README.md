@@ -128,5 +128,7 @@ c）RippleNet: Propagating User Preferences on the Knowledge Graph for Recommend
 ## 动态知识图谱：
 * [动态知识图谱](https://github.com/woojeongjin/dynamic-KG "动态知识图谱") 
 * [基于动态知识图谱的事件预测](https://github.com/amy-deng/glean "基于动态知识图谱的事件预测")   
+## 机器学习：
+* [各机器学习模型思维导图](https://github.com/duanzhiying/machine-learning-model "各机器学习模型思维导图")    
 
 
