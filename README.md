@@ -133,5 +133,6 @@ c）RippleNet: Propagating User Preferences on the Knowledge Graph for Recommend
 * [各种图算法](https://github.com/AI-Friend/Graph-Algorithms "图基础；图表示学习 、图神经网络、 知识表示学习/知识图谱三元组")    
 * [图神经网络相关博客](https://archwalker.github.io/page2/ "预训练图神经网络、GNN等算法、分布式图神经网络等")
 * [图神经网络预训练paper](https://www.msra.cn/zh-cn/news/features/graph-neural-network-pre-training-paper-list "图神经网络预训练paper")    
+* [Code】OGB：图机器学习的基准测试数据集](https://cloud.tencent.com/developer/article/1665562 "Code】OGB：图机器学习的基准测试数据集")    
 
 
