@@ -135,4 +135,10 @@ c）RippleNet: Propagating User Preferences on the Knowledge Graph for Recommend
 * [图神经网络预训练paper](https://www.msra.cn/zh-cn/news/features/graph-neural-network-pre-training-paper-list "图神经网络预训练paper")    
 * [Code】OGB：图机器学习的基准测试数据集](https://cloud.tencent.com/developer/article/1665562 "Code】OGB：图机器学习的基准测试数据集")    
 
+## 相关竞赛：
+[CCKS 2021：表型-药物-分子多层次知识图谱的链接预测](https://www.biendata.xyz/competition/ccks_2021_kg_link_prediction/)     
+[SMP基于美团外卖图谱的菜品推荐](https://www.biendata.xyz/competition/smp2021_2/)    
+[SMP基于美团外卖图谱的商家推荐](https://www.biendata.xyz/competition/smp2021_1/)    
+[CCKS 2021：生活服务知识图谱问答评测](https://www.biendata.xyz/competition/ccks_2021_ckbqa/)    
+[58招聘推荐](https://tech.58.com/game/problemDesc?contestId=4&token=58tech)    
 
