@@ -128,12 +128,16 @@ c）RippleNet: Propagating User Preferences on the Knowledge Graph for Recommend
 ## 动态知识图谱：
 * [动态知识图谱](https://github.com/woojeongjin/dynamic-KG "动态知识图谱") 
 * [基于动态知识图谱的事件预测](https://github.com/amy-deng/glean "基于动态知识图谱的事件预测")   
-## 机器学习：
+## 图机器学习：
 * [各机器学习模型思维导图](https://github.com/duanzhiying/machine-learning-model "各机器学习模型思维导图")    
 * [各种图算法对比](https://github.com/AI-Friend/Graph-Algorithms "图基础；图表示学习 、图神经网络、 知识表示学习/知识图谱三元组")    
 * [图神经网络相关博客](https://archwalker.github.io/page2/ "预训练图神经网络、GNN等算法、分布式图神经网络等")
 * [图神经网络预训练paper](https://www.msra.cn/zh-cn/news/features/graph-neural-network-pre-training-paper-list "图神经网络预训练paper")    
-* [Code】OGB：图机器学习的基准测试数据集](https://cloud.tencent.com/developer/article/1665562 "Code】OGB：图机器学习的基准测试数据集")    
+* [Code】OGB：图机器学习的基准测试数据集](https://cloud.tencent.com/developer/article/1665562 "Code】OGB：图机器学习的基准测试数据集")  
+### DGL学习：
+* [【学习笔记】图神经网络库 DGL 入门教程（backend pytorch）](https://blog.csdn.net/CY19980216/article/details/1106299962)  
+* [DGL学习1-8](https://www.cnblogs.com/liyinggang/default.html?page=3)  
+* [DGL中文文档](https://docs.dgl.ai/guide_cn/index.html)  
 
 ## 相关竞赛：
 * [CCKS 2021：表型-药物-分子多层次知识图谱的链接预测](https://www.biendata.xyz/competition/ccks_2021_kg_link_prediction/)     
