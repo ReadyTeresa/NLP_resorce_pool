@@ -135,7 +135,7 @@ c）RippleNet: Propagating User Preferences on the Knowledge Graph for Recommend
 * [图神经网络预训练paper](https://www.msra.cn/zh-cn/news/features/graph-neural-network-pre-training-paper-list "图神经网络预训练paper")    
 * [Code】OGB：图机器学习的基准测试数据集](https://cloud.tencent.com/developer/article/1665562 "Code】OGB：图机器学习的基准测试数据集")  
 ### DGL学习：
-* [【学习笔记】图神经网络库 DGL 入门教程（backend pytorch）](https://blog.csdn.net/CY19980216/article/details/1106299962)  
+* [【学习笔记】图神经网络库 DGL 入门教程（backend pytorch）](https://blog.csdn.net/CY19980216/article/details/110629996)  
 * [DGL学习1-8](https://www.cnblogs.com/liyinggang/default.html?page=3)  
 * [DGL中文文档](https://docs.dgl.ai/guide_cn/index.html)  
 
