@@ -118,6 +118,7 @@ c）RippleNet: Propagating User Preferences on the Knowledge Graph for Recommend
 
 ## 网络表示学习：
 * [斯坦福图机器学习课程](https://hub.baai.ac.cn/view/5889 "图机器学习")     
+* [C224w图机器学习课程笔记](https://www.zhihu.com/people/yue-84-23)    
 * [网络表示学习相关paper和代码](https://github.com/chihming/awesome-network-embedding "github")    
 * [图深度学习论文](https://github.com/naganandy/graph-based-deep-learning-literature "github")    
 * [网络表示学习](https://github.com/thunlp/OpenNE "github")    
