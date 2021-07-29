@@ -10,7 +10,8 @@
 [百度数据集](https://ai.baidu.com/broad/introduction  "包括信息抽取、实体链接、阅读理解等多种数据集")    
 [知识图谱,常识推理,事件知识](https://homes.cs.washington.edu/~msap/publications.html)    
 [数据标注平台](https://github.com/talentneptuner/pt_Platformv2)     
-[知识抽取、管理中台参考案例-华为云KG](https://support.huaweicloud.com/bestpractice-kg/kg_04_0001.html) 
+[知识抽取、管理中台参考案例-华为云KG](https://support.huaweicloud.com/bestpractice-kg/kg_04_0001.html)     
+【动手学习深度学习】[book](http://zh.d2l.ai/)  [code](https://github.com/d2l-ai/d2l-zh)
 ## 事件抽取:
 * [NLP事件抽取文献资源列表](https://github.com/BaptisteBlouin/EventExtractionPapers "事件抽取")    
 * 
