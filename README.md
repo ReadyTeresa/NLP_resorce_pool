@@ -85,6 +85,7 @@
 * [实体对齐-paperwithcode](https://paperswithcode.com/task/entity-alignment "实体对齐论文代码")  
 * [三元组质检](https://zhuanlan.zhihu.com/p/75983373 "知乎")  
 * [知识同义词扩充](https://zhuanlan.zhihu.com/p/94726282 "知乎")  
+* [实体对齐|paper and code](https://paperswithcode.com/task/entity-alignment)
 
 ### 9）KG推荐
 * [知识图谱推荐论文](https://github.com/xgy995975102/RS-with-KG "知识图谱推荐论文代码")
