@@ -118,6 +118,9 @@ c）RippleNet: Propagating User Preferences on the Knowledge Graph for Recommend
 ### 13）信息抽取
 * [ACL2021 信息抽取相关论文](https://mp.weixin.qq.com/s/tLX117eblU8U60qIwhudMg "ACL2021 信息抽取相关论文")    
 
+### 14）同义词挖掘
+[AAAI2019 同义词挖掘](https://github.com/tigerchen52/synonym_detection)    
+
 ## 网络表示学习：
 * [斯坦福图机器学习课程](https://hub.baai.ac.cn/view/5889 "图机器学习")     
 * [C224w图机器学习课程笔记](https://www.zhihu.com/people/yue-84-23)    
@@ -148,4 +151,6 @@ c）RippleNet: Propagating User Preferences on the Knowledge Graph for Recommend
 * [SMP基于美团外卖图谱的商家推荐](https://www.biendata.xyz/competition/smp2021_1/)    
 * [CCKS 2021：生活服务知识图谱问答评测](https://www.biendata.xyz/competition/ccks_2021_ckbqa/)    
 * [58招聘推荐](https://tech.58.com/game/problemDesc?contestId=4&token=58tech)    
+
+
 
