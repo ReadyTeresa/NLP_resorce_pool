@@ -150,7 +150,8 @@ c）RippleNet: Propagating User Preferences on the Knowledge Graph for Recommend
 * [SMP基于美团外卖图谱的菜品推荐](https://www.biendata.xyz/competition/smp2021_2/)    
 * [SMP基于美团外卖图谱的商家推荐](https://www.biendata.xyz/competition/smp2021_1/)    
 * [CCKS 2021：生活服务知识图谱问答评测](https://www.biendata.xyz/competition/ccks_2021_ckbqa/)    
-* [58招聘推荐](https://tech.58.com/game/problemDesc?contestId=4&token=58tech)    
+* [58招聘推荐](https://tech.58.com/game/problemDesc?contestId=4&token=58tech)   
+* [天池-电商推荐“抱大腿”攻击识别](https://tianchi.aliyun.com/competition/entrance/531925/introduction)     
 
 
 
