@@ -154,5 +154,7 @@ c）RippleNet: Propagating User Preferences on the Knowledge Graph for Recommend
 * [58招聘推荐](https://tech.58.com/game/problemDesc?contestId=4&token=58tech)   
 * [天池-电商推荐“抱大腿”攻击识别](https://tianchi.aliyun.com/competition/entrance/531925/introduction)     
 
+## learn：
+* [pytorch book](https://github.com/chenyuntc/pytorch-book)     
 
 
