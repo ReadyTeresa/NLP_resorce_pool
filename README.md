@@ -11,7 +11,7 @@
 [知识图谱,常识推理,事件知识](https://homes.cs.washington.edu/~msap/publications.html)    
 [数据标注平台](https://github.com/talentneptuner/pt_Platformv2)     
 [知识抽取、管理中台参考案例-华为云KG](https://support.huaweicloud.com/bestpractice-kg/kg_04_0001.html)     
-【动手学习深度学习】[book](http://zh.d2l.ai/)  [code](https://github.com/d2l-ai/d2l-zh)
+【动手学习深度学习】[book](http://zh.d2l.ai/)  [code](https://github.com/d2l-ai/d2l-zh)    
 【西瓜书+南瓜书】[西瓜书](https://keketec.club/posts/d92a0946/)   [南瓜书](https://github.com/datawhalechina/pumpkin-book)    
 
 ## 事件抽取:
