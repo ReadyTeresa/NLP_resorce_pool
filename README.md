@@ -122,7 +122,8 @@ c）RippleNet: Propagating User Preferences on the Knowledge Graph for Recommend
 
 ### 13）信息抽取
 * [ACL2021 信息抽取相关论文](https://mp.weixin.qq.com/s/tLX117eblU8U60qIwhudMg "ACL2021 信息抽取相关论文")   
-* [信息抽取工具-deepKE](https://github.com/zjunlp/DeepKE)     
+* [信息抽取平台-deepKE](https://github.com/zjunlp/DeepKE)    
+* [信息抽取平台-deepIE](https://github.com/loujie0822/DeepIE)    
 
 ### 14）同义词挖掘
 [AAAI2019 同义词挖掘](https://github.com/tigerchen52/synonym_detection)    
