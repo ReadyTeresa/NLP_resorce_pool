@@ -25,8 +25,10 @@
 * [知识图谱资料整理github2](https://github.com/BrambleXu/knowledge-graph-learning 'github')
 * [知识图谱表示学习-亚马逊](https://github.com/awslabs/dgl-ke 'github')
 * [知识图谱表示学习-清华](https://github.com/thunlp/OpenKE 'github')
-* [知识表示学习论文-LineaRE](https://ieeexplore.ieee.org/document/9338434)    
-* [知识表示学习论文-PairRE](https://arxiv.org/pdf/2011.03798.pdf)    
+* [知识表示学习论文-LineaRE](https://ieeexplore.ieee.org/document/9338434)     
+* [知识表示学习论文-PairRE](https://arxiv.org/pdf/2011.03798.pdf)    [code](https://github.com/alipay/KnowledgeGraphEmbeddingsViaPairedRelationVectors_PairRE)
+* [知识表示学习-OTE](https://arxiv.org/pdf/1911.04910.pdf)   [code](https://github.com/JD-AI-Research-Silicon-Valley/KGEmbedding-OTE)    
+* [知识表示学习-RNNLogic](https://arxiv.org/pdf/2010.04029.pdf)    [code](https://github.com/DeepGraphLearning/RNNLogic)    
 
 ### 1）实体链接
 [CCKS 2019 中文短文本实体链指比赛技术创新奖解决方案](https://github.com/AlexYangLi/ccks2019_el "实体链接")   
