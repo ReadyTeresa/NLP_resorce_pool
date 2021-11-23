@@ -28,7 +28,8 @@
 * [知识表示学习论文-LineaRE](https://ieeexplore.ieee.org/document/9338434)     
 * [知识表示学习论文-PairRE](https://arxiv.org/pdf/2011.03798.pdf)    [【code】](https://github.com/alipay/KnowledgeGraphEmbeddingsViaPairedRelationVectors_PairRE)
 * [知识表示学习-OTE](https://arxiv.org/pdf/1911.04910.pdf)   [【code】](https://github.com/JD-AI-Research-Silicon-Valley/KGEmbedding-OTE)    
-* [知识表示学习-RNNLogic](https://arxiv.org/pdf/2010.04029.pdf)    [【code】](https://github.com/DeepGraphLearning/RNNLogic)    
+* [知识表示学习-RNNLogic](https://arxiv.org/pdf/2010.04029.pdf)    [【code】](https://github.com/DeepGraphLearning/RNNLogic)  
+* [知识表示学习-论文梳理](https://github.com/JxustLiao/Natural-Language-Processing/tree/92201ee2b161ee2c0c693b199d8ee48e6a7ea897/knowledge%20graph%20and%20graph%20embedding/KGE)   
 
 ### 1）实体链接
 [CCKS 2019 中文短文本实体链指比赛技术创新奖解决方案](https://github.com/AlexYangLi/ccks2019_el "实体链接")   
