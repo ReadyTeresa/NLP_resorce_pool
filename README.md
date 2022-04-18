@@ -164,8 +164,9 @@ c）RippleNet: Propagating User Preferences on the Knowledge Graph for Recommend
 * [58招聘推荐](https://tech.58.com/game/problemDesc?contestId=4&token=58tech)   
 * [天池-电商推荐“抱大腿”攻击识别](https://tianchi.aliyun.com/competition/entrance/531925/introduction)    
 * [datafuntation 比赛平台](https://www.datafountain.cn/competitions)     
-* [搜狐情感分析×推荐排序算法赛](https://www.biendata.xyz/competition/sohu_2022/)  [baseline](https://mp.weixin.qq.com/s/cd7kEwJbsFHMJDTDjcI8Ug)      
-* []()
+* [搜狐情感分析×推荐排序算法赛](https://www.biendata.xyz/competition/sohu_2022/)  [【baseline】](https://mp.weixin.qq.com/s/cd7kEwJbsFHMJDTDjcI8Ug)      
+* [2022语言与智能技术大赛](http://lic2022.cipsc.org.cn/) 【任务1：知识对话】 【任务2：情感可解释评测】    
+* [2021 MAXP 命题赛：基于DGL的图机器学习任务](https://www.biendata.xyz/user/login/?next=/competition/maxp_dgl/data/)  [【Baseline】](https://mp.weixin.qq.com/s/FspRNePSmXDjjkbK5-0Nmg)  [[data]](百度网盘搜索dgl2)
 
 ## learn：
 * [pytorch book](https://github.com/chenyuntc/pytorch-book)     
