@@ -167,7 +167,7 @@ c）RippleNet: Propagating User Preferences on the Knowledge Graph for Recommend
 * [搜狐情感分析×推荐排序算法赛](https://www.biendata.xyz/competition/sohu_2022/)  [【baseline】](https://mp.weixin.qq.com/s/cd7kEwJbsFHMJDTDjcI8Ug)      
 * [2022语言与智能技术大赛](http://lic2022.cipsc.org.cn/) 【任务1：知识对话】 【任务2：情感可解释评测】    
 * [2021 MAXP 命题赛：基于DGL的图机器学习任务](https://www.biendata.xyz/user/login/?next=/competition/maxp_dgl/data/)  [【Baseline】](https://mp.weixin.qq.com/s/FspRNePSmXDjjkbK5-0Nmg)  [[data]]() 【百度网盘搜索dgl2】    
-* [CCKS-面向数字商务的知识图谱比赛-简介](https://mp.weixin.qq.com/s/6gee3BF5krNZjRSUJhkh-w)） [【任务一：商品常识知识显著性推理】](https://tianchi.aliyun.com/competition/entrance/531955/introduction)  [任务二：基于知识图谱的商品同款挖掘](https://tianchi.aliyun.com/competition/entrance/531956/introduction)  [任务三：多模态商品知识图谱链接预测](https://tianchi.aliyun.com/competition/entrance/531957/introduction)    
+* [CCKS-面向数字商务的知识图谱比赛-简介](https://mp.weixin.qq.com/s/6gee3BF5krNZjRSUJhkh-w)） [【任务一：商品常识知识显著性推理】](https://tianchi.aliyun.com/competition/entrance/531955/introduction)  [【任务二：基于知识图谱的商品同款挖掘】](https://tianchi.aliyun.com/competition/entrance/531956/introduction)  [【任务三：多模态商品知识图谱链接预测】](https://tianchi.aliyun.com/competition/entrance/531957/introduction)    
 
 ## learn：
 * [pytorch book](https://github.com/chenyuntc/pytorch-book)     
