@@ -172,4 +172,6 @@ c）RippleNet: Propagating User Preferences on the Knowledge Graph for Recommend
 ## learn：
 * [pytorch book](https://github.com/chenyuntc/pytorch-book)     
 
+## Books：
+* [统计学习方法(李航).pdf](https://github.com/skyformat99/books-1/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E2%97%8F%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E2%97%8F%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)
 
