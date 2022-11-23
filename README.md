@@ -1,6 +1,9 @@
 # NLP_resorce_pool
 整理NLP相关学习资料，提供系统化的学习路径。
 
+## 数据集：
+[opendatalab](https://opendatalab.com/?taskTypes=3277)   
+
 ## NLP资源：
 [几乎最全的中文NLP资源库](https://github.com/fighting41love/funNLP "NLP民工的乐园")  
 [NLP资源整理](https://blog.csdn.net/qq_42189083/article/details/111614140 "NLP资源整理") 
