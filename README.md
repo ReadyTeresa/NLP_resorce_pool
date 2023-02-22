@@ -140,6 +140,7 @@ c）RippleNet: Propagating User Preferences on the Knowledge Graph for Recommend
 ### 15）文本生成
 [文本摘要](https://github.com/downw/summrization)   
 [强化学习控制文本生成](https://zhuanlan.zhihu.com/p/599157047)   
+[关键词抽取与生成](https://zhuanlan.zhihu.com/p/458547121)    
 
 ## 网络表示学习：
 * [斯坦福图机器学习课程](https://hub.baai.ac.cn/view/5889 "图机器学习")     
