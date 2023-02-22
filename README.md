@@ -188,4 +188,5 @@ c）RippleNet: Propagating User Preferences on the Knowledge Graph for Recommend
 
 ## 工具：
 * [如何让炼丹更有调理](https://github.com/ahangchen/windy-afternoon/blob/master/ml/pratice/torch_best_practice.md)     
+[【torch base code】](https://github.com/ahangchen/torch_base)
 
