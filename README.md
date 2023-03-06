@@ -59,7 +59,8 @@
 * [细粒度实体分类中文数据集](https://github.com/HKUST-KnowComp/cfet)    
 * [多标签分类](https://github.com/kaushaltrivedi/bert-toxic-comments-multilabel "多标签分类")  [data](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data?select=train.csv.zip "data")    
 * [多标签分类](https://github.com/taishan1994/pytorch_bert_multi_classification)  
-* [多标签分类代码参考](https://github.com/murray-z/multi_label_classification)   
+* [多标签分类代码参考](https://github.com/murray-z/multi_label_classification)    
+* [二分类](https://github.com/liang8qi/Chinese-Text-Classification-Based-on-Bert)    
 
 ### 6）知识图谱/知识库
 * [HowNet中文知识库](https://github.com/thunlp/OpenHowNet "知识库整理")
