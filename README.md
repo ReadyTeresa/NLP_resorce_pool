@@ -190,6 +190,10 @@ c）RippleNet: Propagating User Preferences on the Knowledge Graph for Recommend
 ## Books：
 * [统计学习方法(李航).pdf](https://github.com/skyformat99/books-1/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E2%97%8F%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E2%97%8F%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)
 
+## chatGPT相关
+[清华ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)   
+[cocacola-lab](https://github.com/cocacola-lab/ChatIE)   
+
 ## 工具：
 * [如何让炼丹更有调理](https://github.com/ahangchen/windy-afternoon/blob/master/ml/pratice/torch_best_practice.md)     
 [【torch base code】](https://github.com/ahangchen/torch_base)
