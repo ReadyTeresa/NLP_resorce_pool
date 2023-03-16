@@ -192,7 +192,8 @@ c）RippleNet: Propagating User Preferences on the Knowledge Graph for Recommend
 
 ## chatGPT相关
 [清华ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)   
-[cocacola-lab](https://github.com/cocacola-lab/ChatIE)   
+[cocacola-lab](https://github.com/cocacola-lab/ChatIE)  
+[chatglm_finetuning](https://github.com/ssbuild/chatglm_finetuning)   
 
 ## 工具：
 * [如何让炼丹更有调理](https://github.com/ahangchen/windy-afternoon/blob/master/ml/pratice/torch_best_practice.md)     
