@@ -16,6 +16,7 @@
 [知识抽取、管理中台参考案例-华为云KG](https://support.huaweicloud.com/bestpractice-kg/kg_04_0001.html)     
 【动手学习深度学习】[book](http://zh.d2l.ai/)  [code](https://github.com/d2l-ai/d2l-zh)    
 【西瓜书+南瓜书】[西瓜书](链接:https://pan.baidu.com/s/1t-4hBzqOxoogopOH6FHR_w)  密码:8bt2   [南瓜书](https://github.com/datawhalechina/pumpkin-book)    
+[模型工厂, 轻量且高效的训练程序](https://github.com/ssbuild/pytorch-task-example)    
 
 ## 事件抽取:
 * [NLP事件抽取文献资源列表](https://github.com/BaptisteBlouin/EventExtractionPapers "事件抽取")    
