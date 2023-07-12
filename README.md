@@ -60,7 +60,7 @@
 * [细粒度实体分类中文数据集](https://github.com/HKUST-KnowComp/cfet)    
 * [多标签分类](https://github.com/kaushaltrivedi/bert-toxic-comments-multilabel "多标签分类")  [data](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data?select=train.csv.zip "data")    
 * [多标签分类](https://github.com/taishan1994/pytorch_bert_multi_classification)  
-* [多标签分类代码参考](https://github.com/murray-z/multi_label_classification)    
+* [多标签分类代码参考](https://github.com/murray-z/multi_label_classification)    [样本不均衡问题解决方案](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247505145&idx=1&sn=42467a5475b64d3031a46594261600d2&chksm=96ea0b79a19d826fb7e040968bbe928daf528d38e63d916b05cbc60a5d350755e619abc2aff8#rd)    
 * [二分类](https://github.com/liang8qi/Chinese-Text-Classification-Based-on-Bert)     
 * [二分类](https://github.com/karlhl/Bert-classification-pytorch)
 
