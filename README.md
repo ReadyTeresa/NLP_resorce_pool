@@ -138,7 +138,8 @@ c）RippleNet: Propagating User Preferences on the Knowledge Graph for Recommend
 * [信息抽取平台-deepIE](https://github.com/loujie0822/DeepIE)    
 
 ### 14）同义词挖掘
-[AAAI2019 同义词挖掘](https://github.com/tigerchen52/synonym_detection)   
+[AAAI2019 同义词挖掘](https://github.com/tigerchen52/synonym_detection)    
+[别名识别](https://github.com/macanv/BERT-BiLSTM-CRF-NER)   
 
 ### 15）文本生成
 [文本摘要](https://github.com/downw/summrization)   
