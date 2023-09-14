@@ -204,3 +204,8 @@ c）RippleNet: Propagating User Preferences on the Knowledge Graph for Recommend
 [【torch base code】](https://github.com/ahangchen/torch_base)
 [将“softmax+交叉熵”推广到多标签分类问题](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247505145&idx=1&sn=42467a5475b64d3031a46594261600d2&chksm=96ea0b79a19d826fb7e040968bbe928daf528d38e63d916b05cbc60a5d350755e619abc2aff8#rd)
 
+## leetcode
+[参考1](https://github.com/azl397985856/leetcode)   
+[参考2](https://github.com/doocs/leetcode)    
+
+
